@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="980257ab-5b9f-4353-baf5-1c22c86afe26" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../EnumGenerics" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hackaton/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hackaton/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hackaton/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hackaton/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hackaton/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Hackaton/Hackaton.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ti-tac-toe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Vehicles" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../javaClasses" afterDir="false" />
@@ -17,7 +11,6 @@
       <change afterPath="$PROJECT_DIR$/../javaCompare/src/CountComparator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../javaCompare/src/NameComparator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../javaCompare/src/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaHelloWorld" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../javaLists/.idea/checkstyle-idea.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../javaLists/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../javaLists/.idea/modules.xml" afterDir="false" />
@@ -25,18 +18,25 @@
       <change afterPath="$PROJECT_DIR$/../javaLists/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../javaLists/javaLists.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../javaLists/src/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javaLists/src/Stock.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CustomersPriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Customers.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../javaSorting" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Phonebook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Phonebook/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javaMap/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaMap/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javaMap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javaMap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaMap/out/production/javaMap/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/../javaMap/out/production/javaMap/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaMap/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../javaMap/src/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Main/CustomersPriorityQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Main/CustomersPriorityQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CustomersPriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CustomersPriorityQueue.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,36 +56,37 @@
     <session id="-370296609">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="iml" value="5" />
+          <entry key="iml" value="6" />
           <entry key="java" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IDEA_MODULE" value="5" />
+          <entry key="IDEA_MODULE" value="6" />
           <entry key="JAVA" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
-          <entry key="java" value="6030" />
+          <entry key="java" value="8725" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6030" />
+          <entry key="JAVA" value="8725" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
@@ -93,54 +94,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CustomersPriorityQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="37" column="50" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="50" />
+            <state relative-caret-position="-10">
+              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
               <folding>
-                <element signature="e#0#1511#0" expanded="true" />
-                <element signature="e#397#407#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Customer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="65" column="41" selection-start-line="65" selection-start-column="41" selection-end-line="65" selection-end-column="41" />
-              <folding>
-                <element signature="e#748#749#0" expanded="true" />
-                <element signature="e#774#775#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#2522#2523#0" expanded="true" />
+                <element signature="e#2559#2560#0" expanded="true" />
+                <element signature="e#2591#2592#0" expanded="true" />
+                <element signature="e#2631#2632#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../javaMap/src/Account.java">
+        <entry file="file://$PROJECT_DIR$/src/Customers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="25" selection-start-line="25" selection-end-line="25" selection-end-column="48" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../javaLists/src/Program.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-183">
+              <caret line="57" column="21" lean-forward="true" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -156,7 +130,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -165,16 +139,17 @@
         <option value="$PROJECT_DIR$/src/Queue.java" />
         <option value="$PROJECT_DIR$/src/PriorityQueue.java" />
         <option value="$PROJECT_DIR$/../javaLists/src/Program.java" />
-        <option value="$PROJECT_DIR$/src/CustomersPriorityQueue.java" />
         <option value="$PROJECT_DIR$/src/Customer.java" />
+        <option value="$PROJECT_DIR$/src/Customers.java" />
+        <option value="$PROJECT_DIR$/src/CustomersPriorityQueue.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="683" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="641" />
     <option name="y" value="5" />
-    <option name="width" value="694" />
-    <option name="height" value="745" />
+    <option name="width" value="718" />
+    <option name="height" value="738" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -184,7 +159,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -201,12 +175,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Course" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javaMap/src/Account.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javaCompare/javaCompare.iml" />
     <property name="settings.editor.selected.configurable" value="settings.findbugs.project" />
   </component>
   <component name="RunDashboard">
@@ -245,22 +220,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="641" y="5" width="718" height="738" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10136157" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18389058" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.46596065" visible="true" weight="0.32419354" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4650456" visible="true" weight="0.3228477" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.52208203" side_tool="true" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="CheckStyle" order="8" sideWeight="0.5340393" side_tool="true" visible="true" weight="0.32419354" />
+      <window_info anchor="bottom" id="CheckStyle" order="8" sideWeight="0.5349544" side_tool="true" visible="true" weight="0.3228477" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" x="15" y="319" width="192" height="373" id="Event Log" order="10" side_tool="true" type="WINDOWED" weight="0.3289689" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="11" sideWeight="0.5438729" side_tool="true" weight="0.32419354" />
@@ -275,16 +250,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Ti-tac-toe/TicTacToe.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../javaMap/javaMap.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Ti-tac-toe/TicTacToe.iml" />
+    <entry file="file://$PROJECT_DIR$/../javaMap/javaMap.iml" />
     <entry file="file://$PROJECT_DIR$/Main.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -299,71 +266,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../javaLists/javaLists.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../javaCompare/src/ChainCollectionSorting.java">
+    <entry file="file://$PROJECT_DIR$/../javaLists/javaLists.iml" />
+    <entry file="file://$PROJECT_DIR$/../javaCompare/src/ChainCollectionSorting.java" />
+    <entry file="file://$PROJECT_DIR$/../javaCompare/src/Product.java" />
+    <entry file="file://$PROJECT_DIR$/../javaLists/src/LinkedListStock.java" />
+    <entry file="file://$PROJECT_DIR$/../javaLists/src/Program.java" />
+    <entry file="file://$PROJECT_DIR$/../javaMap/src/Account.java" />
+    <entry file="file://$PROJECT_DIR$/../javaCompare/javaCompare.iml" />
+    <entry file="file://$PROJECT_DIR$/src/Customers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="42" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../javaCompare/src/Product.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../javaLists/src/Stock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../javaLists/src/Program.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-183">
+          <caret line="57" column="21" lean-forward="true" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CustomersPriorityQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="37" column="50" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="50" />
+        <state relative-caret-position="-10">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
           <folding>
-            <element signature="e#0#1511#0" expanded="true" />
-            <element signature="e#397#407#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../javaMap/src/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="25" selection-start-line="25" selection-end-line="25" selection-end-column="48" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="65" column="41" selection-start-line="65" selection-start-column="41" selection-end-line="65" selection-end-column="41" />
-          <folding>
-            <element signature="e#748#749#0" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#2522#2523#0" expanded="true" />
+            <element signature="e#2559#2560#0" expanded="true" />
+            <element signature="e#2591#2592#0" expanded="true" />
+            <element signature="e#2631#2632#0" expanded="true" />
           </folding>
         </state>
       </provider>
