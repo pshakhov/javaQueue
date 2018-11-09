@@ -6,9 +6,9 @@
 
 public final class Customers {
     /** Предельный рабочий возраст для М.*/
-    public static final int TOP_MALE_AGE = 64;
+    public static final int RETIRED_MALE_AGE = 65;
     /** Предельный рабочий возраст для Ж.*/
-    public static final int TOP_FEMALE_AGE = 59;
+    public static final int RETIRED_FEMALE_AGE = 63;
 
     /** Имя посетителя.*/
     private String name;
@@ -53,31 +53,24 @@ public final class Customers {
         this.age = age;
     }
 
+    /** Сеттер пола посетителя.
+     * @param n  .
+     * @param a .
+     * @param s . */
     public Customers(final String n, final char s, final int a) {
         this.name = n;
         this.sex = s;
         this.age = a;
     }
 
-    /** Геттер возраста посетителя.
+    /** Вовзращает пенсионный
+     * возраст для конкретного пола.
      * @return */
-    public boolean isRetired() {
+    public int getRetiredAge() {
         if (sex == 'm') {
-            return age > TOP_MALE_AGE;
+            return RETIRED_MALE_AGE;
         } else if (sex == 'f') {
-            return age > TOP_FEMALE_AGE;
-        }
-        throw new IllegalArgumentException("Incorrect sex or its register!");
-    }
-
-    /** Вовзращает максимальный
-     * рабочий возраст для пола.
-     * @return */
-    public int topAge() {
-        if (sex == 'm') {
-            return TOP_MALE_AGE;
-        } else if (sex == 'f') {
-            return TOP_FEMALE_AGE;
+            return RETIRED_FEMALE_AGE;
         }
         throw new IllegalArgumentException("Incorrect sex or its register!");
     }
